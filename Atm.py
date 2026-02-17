@@ -1,6 +1,6 @@
 print("--------------- Welcome to Jashan's Bank ATM ---------------")
 
-correct_pin = 1498
+correct_pin = 1234
 attempts = 0
 current_balance = 0
 
